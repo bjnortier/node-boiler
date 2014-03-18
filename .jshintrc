@@ -17,6 +17,8 @@
   "globals": {
     "document": false,
     "window": false,
-    "requirejs": false
+    "requirejs": false,
+    "describe": false,
+    "it": false
   }
 }
