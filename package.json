@@ -1,6 +1,6 @@
 {
   "name": "replace-me-with-a-proper-name",
-  "description": "A node express + mocha + grunt app",
+  "description": "A node express + mocha + gulp app",
   "author": "John Smith <john@smith.com>",
   "engine": "node >= 0.10.0",
   "scripts": {
