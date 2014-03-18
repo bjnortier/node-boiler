@@ -7,4 +7,4 @@ Different combinations of aforementioned components are maintained in separate b
 Some commonalities:
 
  1. Unit tests that run both in a console and the browser
- 1. 
+ 1. A task runner (grunt/gulp)
